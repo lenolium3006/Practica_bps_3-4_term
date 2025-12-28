@@ -1,0 +1,1 @@
+Ссылка на репозиторий с проектом: [https://github.com/pr-cbs/vbkg/tree/main/result]
